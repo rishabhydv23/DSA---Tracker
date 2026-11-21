@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0844-backspace-string-compare) |
+| [0881-boats-to-save-people](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0881-boats-to-save-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/rishabhydv23/DSA---Tracker/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## String
 |  |
@@ -22,5 +23,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0881-boats-to-save-people](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0881-boats-to-save-people) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/rishabhydv23/DSA---Tracker/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+## Array
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0881-boats-to-save-people) |
+## Sorting
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0881-boats-to-save-people) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
