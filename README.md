@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0724-find-pivot-index](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0881-boats-to-save-people) |
+| [1991-find-the-middle-index-in-array](https://github.com/rishabhydv23/DSA---Tracker/tree/master/1991-find-the-middle-index-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -51,4 +52,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0724-find-pivot-index) |
+| [1991-find-the-middle-index-in-array](https://github.com/rishabhydv23/DSA---Tracker/tree/master/1991-find-the-middle-index-in-array) |
 <!---LeetCode Topics End-->
