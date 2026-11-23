@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0724-find-pivot-index](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0881-boats-to-save-people) |
 ## Sorting
 |  |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
