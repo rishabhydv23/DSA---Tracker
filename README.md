@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0523-continuous-subarray-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0724-find-pivot-index](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0724-find-pivot-index) |
 | [0881-boats-to-save-people](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0881-boats-to-save-people) |
@@ -52,7 +53,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0724-find-pivot-index) |
 | [1991-find-the-middle-index-in-array](https://github.com/rishabhydv23/DSA---Tracker/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/rishabhydv23/DSA---Tracker/tree/master/2574-left-and-right-sum-differences) |
+## Hash Table
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0523-continuous-subarray-sum) |
+## Math
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0523-continuous-subarray-sum) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/rishabhydv23/DSA---Tracker/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
